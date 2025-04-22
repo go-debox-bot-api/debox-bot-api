@@ -1,2 +1,1 @@
-# debox-bot-api
-Debox Bugbounty POC by @nvk0x
+# Debox Bugbounty POC by @nvk0x
